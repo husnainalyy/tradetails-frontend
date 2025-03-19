@@ -7,7 +7,7 @@ import { useUser } from "@clerk/clerk-react";
 
 import PropTypes from 'prop-types';
 import { SingleAd } from './Ad'
-import { Card, CardContent, CardHeader } from '@/Components/ui/card'
+import { Card, CardContent, CardHeader } from '@/components/ui/card'
 
 const API_URL = 'https://tradetails-backend-production.up.railway.app'
 
@@ -59,7 +59,7 @@ function ProductGrid({ view, products, onAdClick }) {
                                 alt={product.model}
                                 className="aspect-[4/3] w-full rounded-lg object-cover"
                             />
-                           
+
                         </div>
                         <div className="flex-1 space-y-3 pl-6">
                             <div className="flex items-start justify-between">
