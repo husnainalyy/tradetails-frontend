@@ -172,7 +172,7 @@ export const testimonials = [
     },
     {
         id: "1",
-        name: "Salina John",
+        name: "Alicia Barker",
         role: "Lead Developer - Trade Tales",
         avatarUrl: "/images/testimonials/alicia-barker.png",
         comment:
@@ -180,7 +180,7 @@ export const testimonials = [
     },
     {
         id: "2",
-        name: "Joe Hik",
+        name: "Qadr Islam",
         role: "Product Manager - Trade Tales",
         avatarUrl: "/images/testimonials/melanie-hurst.png",
         comment:
@@ -188,7 +188,7 @@ export const testimonials = [
     },
     {
         id: "3",
-        name: "Mic Z",
+        name: "Abdullah cr",
         role: "Marketing Strategist - Trade Tales",
         avatarUrl: "/images/testimonials/mark-erixon.png",
         comment:
@@ -196,7 +196,7 @@ export const testimonials = [
     },
     {
         id: "4",
-        name: "Beck QueenHey, Cortana. After bed drip me a sona social. Mini kebab testimonial. ",
+        name: "mohsin naseem ",
         role: "Customer Support Manager - Trade Tales",
         avatarUrl: "/images/testimonials/jessica-saunders.png",
         comment:
